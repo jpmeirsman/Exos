@@ -40,7 +40,7 @@ int main()
 		switch (c)
 		{
 			case 'A' :
-				printw("Vous avez choisi l'option A eeeeeeee\n");
+				printw("Vous avez choisi l'option A\n");
 				break;
                         case 'B' :
 				printw("Vous avez choisi l'option B\n");
