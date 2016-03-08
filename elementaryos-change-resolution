@@ -4,3 +4,4 @@ xrandr --addmode Virtual1 1920x1080_60.00
 xrandr --output Virtual1 --mode 1920x1080_60.00
 echo "Allez dans Applications puis Paramètres système puis Displays"
 echo "Changez la résolution"
+echo "Sur ElementaryOS ces lignes sont à ajouter dans /etc/rc.local"
